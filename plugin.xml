@@ -6,7 +6,7 @@
 
   <name>Android Support v13</name>
   <license>MIT</license>
-  <keywords>candroid,support,library,v13,jar</keywords>
+  <keywords>cordova,android,support,library,v13,jar</keywords>
   <repo>https://github.com/pbakondy/cordova-plugin-android-support-v13-jar</repo>
   <issue>https://github.com/pbakondy/cordova-plugin-android-support-v13-jar/issues</issue>
 
