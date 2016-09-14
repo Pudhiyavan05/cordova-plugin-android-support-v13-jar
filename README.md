@@ -6,6 +6,9 @@ revision 23.2.1, `1443358 bytes`
 
 This package contains the latest `android-support-v13.jar` file from Android SDK.
 
+- https://developer.android.com/topic/libraries/support-library/features.html#v13
+- https://developer.android.com/reference/android/support/v13/app/package-summary.html
+
 ## Install
 
 ```
